@@ -1,0 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    background-color: ivory;
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    background-color: cadetblue;
+    box-sizing: border-box;
+    display: inline-block;
+}
