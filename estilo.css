@@ -14,6 +14,30 @@
     justify-content: left;
     align-items: flex-end;
 }
+.cuerpo {
+    display: flex;
+    background-color: chocolate;
+    justify-content: space-around;
+}
+.formulario{
+    margin: 12px;
+    margin-left: 12%;
+    width: 900px;
+    background: transparent;
+    border: 2px solid black;
+}
+
+.over-form {
+    display: flex;
+}
+
+.lateral {
+    margin:5px;
+    margin-left: auto;
+    padding: 15px;
+    border: 1px solid gray;
+
+}
 
 .nav-top {
     background: transparent;
