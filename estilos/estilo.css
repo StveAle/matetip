@@ -1,7 +1,6 @@
 * {
     padding: 0px;
-    margin: 0px;
-    
+    margin: 0px;   
 }
 
 .cabecera {    
@@ -14,11 +13,12 @@
     justify-content: left;
     align-items: flex-end;
 }
+
 .cuerpo {
     display: flex;
     background-color: rgba(255, 189, 141, 0);
     justify-content: space-around;
-    background-image: url(https://image.freepik.com/foto-gratis/fondo-texturizado-mosaico-naranja-decorativo_53876-74722.jpg);
+
 }
 
 .formulario{
