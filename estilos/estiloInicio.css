@@ -1,0 +1,40 @@
+
+.cuerpoinicio {
+display: flex;
+
+}
+
+.cuerpoinicio > div {
+    padding-top: 30px;
+    padding-inline: 30px;
+    
+}
+
+ul {
+    list-style-type: none;
+    
+    width: 450px;
+    margin: 0;
+    padding: 0;
+}
+
+.niveles ul li {
+    margin-top: 5px;
+    background-color: rgb(189, 205, 226);
+}
+
+.niveles ul li a 
+{
+    display:block;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: solid black 1px;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.niveles ul li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
