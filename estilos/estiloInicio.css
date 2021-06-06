@@ -6,14 +6,18 @@ display: flex;
 
 .cuerpoinicio > div {
     padding-top: 30px;
-    padding-inline: 30px;
+    padding-inline: 10px;
+    
+}
+
+.cuerpoinicio {
     
 }
 
 ul {
     list-style-type: none;
     
-    width: 450px;
+    width: 400px;
     margin: 0;
     padding: 0;
 }
